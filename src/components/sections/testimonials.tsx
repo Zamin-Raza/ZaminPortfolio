@@ -23,7 +23,7 @@ const testimonials = [
     project: "SafeSitePlus"
   },
   {
-    name: "Aleeza Maryam",
+    name: "Kazim naqvi",
     role: "TEDx CUI Attendee",
     content: "Zamin's leadership in organizing TEDx events was impressive. He managed logistics seamlessly and created a professional atmosphere for speakers and attendees.",
     avatar: "/avatars/3.jpg",
@@ -31,7 +31,7 @@ const testimonials = [
     project: "TEDx CUI 2024"
   },
   {
-    name: "FYP Supervisor",
+    name: "Supervisor",
     role: "Computer Science Department",
     content: "Zamin showed exceptional problem-solving skills in his final year project. His computer vision-based surveillance system demonstrated deep technical understanding and innovation.",
     avatar: "/avatars/4.jpg",

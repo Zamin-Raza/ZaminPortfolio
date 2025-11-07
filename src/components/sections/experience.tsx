@@ -6,7 +6,7 @@ const experiences = [
   {
     title: "Full Stack Developer",
     company: "ZenDev",
-    period: "Sep 2023 - Present",
+    period: "May 2024 - Present",
     location: "Remote",
     description: "Designed and implemented RESTful APIs, database schemas, and backend architecture. Developed responsive user interfaces using React and Next.js.",
     achievements: [
