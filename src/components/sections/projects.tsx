@@ -101,14 +101,14 @@ export function Projects() {
               </CardContent>
               
               <CardFooter className="flex gap-4">
-                <Button size="sm" className="gap-2 flex-1">
+                {/* <Button size="sm" className="gap-2 flex-1">
                   <Github className="w-4 h-4" />
                   Code
-                </Button>
-                <Button variant="outline" size="sm" className="gap-2 flex-1">
+                </Button> */}
+                {/* <Button variant="outline" size="sm" className="gap-2 flex-1">
                   <ExternalLink className="w-4 h-4" />
                   Live Demo
-                </Button>
+                </Button> */}
               </CardFooter>
             </Card>
           ))}
